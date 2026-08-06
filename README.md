@@ -1,4 +1,4 @@
-## hola mi nonbre es juan david espitia leon
+## hola mi nombre es juan david espitia leon
 
 <!--
 **juanespitia486/juanespitia486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
